@@ -2,4 +2,4 @@
 
 ## Introduction to Computer Science and Programming
 
-#### Structure and Interpretation of Computer Science (SICP)
+### Structure and Interpretation of Computer Science (SICP)
