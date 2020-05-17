@@ -20,3 +20,17 @@ MIT 6.00 Introduction to Computer Science and Programming, Fall 2008 (Prof. Eric
 How to Design Programs (HtDP): https://htdp.org/
 
 Notes: You can use Clojure programming language instead of Scheme, which has been used in SICP course. Scheme is a dialect of LISP as well as Clojure. However, Clojure is more modern and useful to learn at the same time. But still Scheme is okay if you prefer not to switch to any another lagnuage.
+
+### Computer Architecture (Programming in C/C++)
+
+Video lectures from Berkley (Berkeley CS 61C): https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk<br>
+There's a recommended book Computer Systems: A Programmer's Perspective: http://csapp.cs.cmu.edu/3e/home.html<br>
+
+#### Alternatives:
+
+I believe Jerry Cain's (from Stanford University) Programming Paradigms course fits here good. Make sure you've taken and completed a course CS106B before you take this actuall course CS107.
+
+Stanford University. Jerry Cain's Programming Paradigms video lectures (CS107): https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02<br>
+Stanford University. Julie Zelenski's Programming Abstractions (CS106B): https://www.youtube.com/view_play_list?p=FE6E58F856038C69<br>
+
+Notes. As I mentioned earlier, You have to take a course CS106B before CS107. There's another prerequisite - CS106A from another Stanford's courses in Java. However, since you've taken SICP course, there's no need in Java introduction courses. Additional materials, links, assignments can be grabbed from here: https://see.stanford.edu/Course<br>
