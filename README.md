@@ -21,7 +21,7 @@ How to Design Programs (HtDP): https://htdp.org/
 
 Notes: You can use Clojure programming language instead of Scheme, which has been used in SICP course. Scheme is a dialect of LISP as well as Clojure. However, Clojure is more modern and useful to learn at the same time. But still Scheme is okay if you prefer not to switch to any another lagnuage.
 
-# Computer Architecture (Programming in C/C++)
+## Computer Architecture (Programming in C/C++)
 
 Video lectures from Berkley (Berkeley CS 61C): https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk<br>
 There's a recommended book Computer Systems: A Programmer's Perspective: http://csapp.cs.cmu.edu/3e/home.html<br>
